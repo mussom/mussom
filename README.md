@@ -1,9 +1,9 @@
-<h1 align="center">- 👋 Hi, I'm Matteo Musso</h1>
+<h1 align="center">⚡ Hi, I'm Matteo Musso ⚡</h1>
 <h3 align="center"></h3>
 
-- - 👀 I'm interested in **computer science**
+- - 🖥️ I'm interested in **computer science** 🖥️
 
-- - 🌱 I'm currently studying **Robotics at ITIS Mario Delpozzo**
+- - 📚 I'm currently studying **Robotics at ITIS Mario Delpozzo** 📚
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
