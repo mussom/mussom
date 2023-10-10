@@ -1,4 +1,4 @@
-![Header](C:\Users\utente\Desktop\5ITIS\MICRO\header.png)
+![Header](./header.png)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussom" alt="mussom" /></a> </p>
 
